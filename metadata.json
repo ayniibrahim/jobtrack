@@ -1,0 +1,6 @@
+{
+  "name": "JobTrack - Career & Job Application Management SaaS",
+  "description": "Executive job application tracking, interview pipeline, compensation negotiation, and career management SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
